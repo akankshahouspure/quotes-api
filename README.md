@@ -1,4 +1,4 @@
-# quotes App
+# Quotes App
 ## An Amazing Daily Quotes
 
 ```

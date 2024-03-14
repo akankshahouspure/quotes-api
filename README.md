@@ -1,5 +1,11 @@
+
 # Quotes App
-## An Amazing Daily Quotes
+
+It is An small app related to show the Quotes . Which will changed after you refresh the page.
+
+
+
+
 
 ```
 npm i

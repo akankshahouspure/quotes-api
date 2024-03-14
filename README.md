@@ -10,7 +10,7 @@ npm run dev
 ### Tech Stack
 
 ```
-Reactjs
-css
+- Reactjs
+- css
 
 ```
